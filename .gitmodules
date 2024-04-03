@@ -1,0 +1,27 @@
+[submodule "nao_pos"]
+	path = nao_pos
+	url = https://github.com/antbono/nao_pos.git
+[submodule "nao_led"]
+	path = nao_led
+	url = https://github.com/antbono/nao_led.git
+[submodule "hni"]
+	path = hni
+	url = https://github.com/antbono/hni.git
+[submodule "nao_lola"]
+	path = nao_lola
+	url = https://github.com/ijnek/nao_lola.git
+[submodule "walk"]
+	path = walk
+	url = https://github.com/ijnek/walk.git
+[submodule "nao_ik"]
+	path = nao_ik
+	url = https://github.com/ijnek/nao_ik.git
+[submodule "nao_phase_provider"]
+	path = nao_phase_provider
+	url = https://github.com/ijnek/nao_phase_provider.git
+[submodule "audio_common"]
+	path = audio_common
+	url = https://github.com/ros-drivers/audio_common.git
+[submodule "usb_cam"]
+	path = usb_cam
+	url = https://github.com/ros-drivers/usb_cam.git

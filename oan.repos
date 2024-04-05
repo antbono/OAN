@@ -2,32 +2,32 @@ repositories:
   biped_interfaces:
     type: git
     url: https://github.com/ros-sports/biped_interfaces.git
-    version: 13bc33cafb6576cd27993f89f4b532f1e3e4844f
+    version: rolling
   hni:
     type: git
     url: git@github.com:antbono/hni.git
-    version: 51f4e469703a1c233dce8829ff9a420137d02fc9
+    version: main
   nao_ik:
     type: git
     url: https://github.com/ijnek/nao_ik.git
-    version: 4514362ce2bb727cce784b3482492e9c33cbeaee
+    version: rolling
   nao_led:
     type: git
     url: git@github.com:antbono/nao_led.git
-    version: b5b16434f6ab914a6ba53329874f3e73a4db6866
+    version: main
   nao_lola:
     type: git
     url: https://github.com/ros-sports/nao_lola.git
-    version: cb2222b44a9fd10d3634a25f6db5bf6f266a9399
+    version: rolling
   nao_phase_provider:
     type: git
     url: https://github.com/ijnek/nao_phase_provider.git
-    version: ca63a8f417924b90159b3366acf581c4409b4508
+    version: rolling
   nao_pos:
     type: git
     url: https://github.com/antbono/nao_pos.git
-    version: 7075458ee3fe383999bd2349a6bf8892ea05385b
+    version: main
   walk:
     type: git
     url: https://github.com/ijnek/walk.git
-    version: 94d1432503e2abc3e2acbd6a556a1b8a20536368
+    version: rolling

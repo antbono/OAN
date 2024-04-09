@@ -20,6 +20,8 @@ Our system provides NAO with not only the basic skills of a humanoid robot such 
 
 The developed code is therefore configured as a ready-to-use but also highly expandable and improvable tool thanks to the possibilities provided by the ROS community.
 
+A video showing these features is available on [YouTube](https://youtu.be/LxboNtHfDJg?si=1951kaU84Miw7Ubb).
+
 ### Modules
 
 This repository collects all the code on which OAN is based. The following image provides an overview of the different parts and the flow of information.
@@ -63,7 +65,7 @@ In order to run the provided software on a real NAO v6 you need to install the c
 
 ### Install the custom Ubuntu OS
 
-The first step is to install the Ubuntu 22.04 image created by the [Nao Devils SPL team](https://naodevils.de/). Instructions are listed in naov6_flash.md.
+The first step is to install the Ubuntu 22.04 image created by the [Nao Devils SPL team](https://naodevils.de/). Instructions are listed in ![naov6_flash.md](naov6_flash.md).
 
 
 ### Install ROS2 on NAO

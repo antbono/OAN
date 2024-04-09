@@ -30,7 +30,7 @@ To connect to nao you need to connect it via ethernet to a router.
 - Connect to it via ssh, the username and password are ''nao''
 - To modify the nao network settings, edit the file /etc/netplan/default.yaml
 -     sudo nano /etc/netplan/default.yaml
-- A sketch of a setting enabling a wifi connection is available in nao_network.yaml
+- A sketch of a setting enabling a wifi connection is available in ![nao_network.yaml](nao_network.yaml)
 - Apply the changes
 -     sudo netplan apply
 - If everything is fine you can now connect to nao via wifi using the choosen static ip address.

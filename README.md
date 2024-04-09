@@ -1,2 +1,2 @@
 
-![OAN_logo](assets/logo.png)
+![OAN_logo](assets/githublogo.png)

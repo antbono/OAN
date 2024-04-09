@@ -1,4 +1,12 @@
 repositories:
+  ament_cmake:
+    type: git
+    url: https://github.com/rolker/ament_cmake.git
+    version: add_extend_existing_python
+  audio_common:
+    type: git
+    url: https://github.com/rolker/audio_common.git
+    version: add_extend_existing
   biped_interfaces:
     type: git
     url: https://github.com/ros-sports/biped_interfaces.git
@@ -27,6 +35,10 @@ repositories:
     type: git
     url: https://github.com/antbono/nao_pos.git
     version: main
+  sole_poses_ims:
+    type: git
+    url: https://github.com/ijnek/sole_poses_ims.git
+    version: rolling
   walk:
     type: git
     url: https://github.com/ijnek/walk.git

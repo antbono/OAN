@@ -1,0 +1,28 @@
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    eth0:
+      optional: true
+      dhcp4: true
+      dhcp6: false
+      addresses:
+        - 192.168.1.111/24 #change as needed
+      routes: 
+      - to: default
+        via: 192.168.1.1
+  wifis:
+    wlan0:
+      optional: true
+      dhcp4: true
+      dhcp6: false
+      access-points:
+       "YOUR_WIFI_SSID":
+          password: "YOUR_WIFI_PASSWORD"
+      addresses:
+       - 192.168.1.110/24  #change as needed
+      routes:
+      - to: default
+        via: 192.168.1.1
+
+
